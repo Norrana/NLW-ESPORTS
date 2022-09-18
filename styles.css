@@ -20,7 +20,7 @@ body * {
 
 header {
   padding-top: 32px;
-  height: calc(180px + 32px)
+  height: calc(180px + 32px);
 }
 
 header div {
