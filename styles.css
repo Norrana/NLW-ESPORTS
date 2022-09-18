@@ -9,9 +9,8 @@ ul {
 }
 
 body {
-  background-image: url(https://img.freepik.com/vetores-gratis/fundo-abstrato-holografico_598544-119.jpg?w=740&t=st=1663281726~exp=1663282326~hmac=76d5913768c1a5004c9863e7dcd6a1062cbdb4f38859c4e39962624f0812f931);
-  background-position: top center;
-  background-size: 150% auto;
+  background: rgb(173,112,235);
+  background: linear-gradient(180deg, rgba(173,112,235,0.5) 0%, rgba(138,227,231,0.5) 75%, rgba(217,252,69,0.5) 100%); 
 }
 
 body * {
